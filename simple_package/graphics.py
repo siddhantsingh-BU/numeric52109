@@ -1,9 +1,9 @@
-"""Plotting helpers for ``simple_package``.
+#Plotting helpers for ``simple_package``.
 
-Contains a convenience function to plot a histogram with mean and median
-marked. Requires ``numpy`` and ``matplotlib``. If either is missing an
-informative ``ImportError`` is raised.
-"""
+## Contains a convenience function to plot a histogram with mean and median marked. 
+## Requires ``numpy`` and ``matplotlib``. 
+## If either is missing an informative ``ImportError`` is raised.
+
 from typing import Any, Optional
 
 try:
