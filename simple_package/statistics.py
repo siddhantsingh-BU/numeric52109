@@ -1,13 +1,11 @@
-"""Statistics helpers for ``simple_package``.
+# Statistics helpers for ``simple_package``.
 
-Provides mean, median, standard deviation calculations with input
-validation and a pretty-print function. The plotting functionality
-lives in :mod:`simple_package.graphics`.
+## Provides mean, median, standard deviation calculations with input validation and a pretty-print function. 
+## The plotting functionality lives in :mod:`simple_package.graphics`.
 
-Notes on dependencies:
-- These functions require ``numpy``. If ``numpy`` is not available an
-  informative ``ImportError`` is raised when functions are called.
-"""
+## Notes on dependencies:
+### - These functions require ``numpy``. If ``numpy`` is not available an informative ``ImportError`` is raised when functions are called.
+
 
 from typing import Any, Dict
 
