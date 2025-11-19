@@ -2,9 +2,6 @@
 ## simple_package - Module operations.py
 ## Basic online calculator
 ###
- 
-import math
-
 ## Here I have defined four functions for the four
 ## basic operations. 
 ##
@@ -26,6 +23,8 @@ import math
 ##    involve complicated operations (e.g., 
 ##    trigonometric functions, logarithms, etc.).
 ##
+
+import math
 
 def add(a, b):
     """Add two numbers."""
