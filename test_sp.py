@@ -14,4 +14,4 @@ if __name__ == '__main__':
     print(f"The sum of {a} and {b} is {a + b}")
 
     ## Now do the same for the function in sp
-    print(f"The product of {a} and {b} is {sp.add(a,b)}")
+    print(f"The product of {a} and {b} is {sp.multiply(a,b)}")
